@@ -28,7 +28,7 @@
             "last_commit": "2026-04-22T14:28:59Z",
             "owner": "Stremio",
             "repo": "stremio-features",
-            "stars": 163
+            "stars": 164
           }
         }
       ],
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-01T08:40:05Z",
             "owner": "TheBeastLT",
             "repo": "torrentio-scraper",
-            "stars": 1278
+            "stars": 1280
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1312
+            "stars": 1314
           }
         },
         {
@@ -221,7 +221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:20:25.698Z",
+    "last_updated": "2026-08-15T22:19:00.449Z",
     "original_repository": "doingodswork/awesome-stremio",
     "original_repository_sha": "4f6b4f9f4da5722e8babfd9a95f587f177883294",
     "enhanced_repository": "enhansome/enhansome-stremio",
