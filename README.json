@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-01T08:40:05Z",
+            "last_commit": "2026-08-17T15:33:31Z",
             "owner": "TheBeastLT",
             "repo": "torrentio-scraper",
             "stars": 1280
@@ -175,7 +175,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1314
+            "stars": 1313
           }
         },
         {
@@ -221,7 +221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:18:28.027Z",
+    "last_updated": "2026-08-17T22:21:20.667Z",
     "original_repository": "doingodswork/awesome-stremio",
     "original_repository_sha": "4f6b4f9f4da5722e8babfd9a95f587f177883294",
     "enhanced_repository": "enhansome/enhansome-stremio",
