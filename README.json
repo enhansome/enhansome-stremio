@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Links to official Stremio resources:",
+      "description": "Links to official Stremio resources:\nCommunity:\nOpen source code:",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45546890,
             "language": null,
             "last_commit": "2026-06-28T14:17:05Z",
             "owner": "Stremio",
@@ -24,145 +25,503 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45546848,
             "language": null,
             "last_commit": "2026-04-22T14:28:59Z",
             "owner": "Stremio",
             "repo": "stremio-features",
             "stars": 163
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Stremio Web",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136023747,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T09:12:45Z",
+            "owner": "Stremio",
+            "repo": "stremio-web",
+            "stars": 12661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stremio Core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163698806,
+            "language": "Rust",
+            "last_commit": "2026-08-17T23:23:37Z",
+            "owner": "Stremio",
+            "repo": "stremio-core",
+            "stars": 2274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Addon SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127441354,
+            "language": "JavaScript",
+            "last_commit": "2026-04-08T05:03:19Z",
+            "owner": "Stremio",
+            "repo": "stremio-addon-sdk",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stremio Desktop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102113198,
+            "language": "C++",
+            "last_commit": "2026-03-27T08:48:42Z",
+            "owner": "Stremio",
+            "repo": "stremio-shell",
+            "stars": 911
+          }
         }
       ],
       "title": "Stremio official"
     },
     {
-      "description": "This list here focuses on open source addons, linking the source code repositories. For a list of addons that aren't necessarily open source check https://github.com/danamag/stremio-addons-list, which is the successor of the addon list that was maintained on the r/StremioAddons subreddit in the past.",
-      "items": [],
-      "title": "Addons"
-    },
-    {
-      "description": "Torrent and HTTP streams:",
+      "description": "Official:\n3rd party:",
       "items": [
         {
           "node_type": "item",
-          "title": "Torrentio",
-          "description": "Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)",
-          "children": [],
+          "title": "PimpMyStremio (aka \"PMS\")",
+          "description": "Local addon manager for Stremio; allows you to run addons that don't work with the regular Stremio",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Addon list including links to their GitHub repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180601731,
+                "language": "JavaScript",
+                "last_commit": "2023-10-25T21:48:40Z",
+                "owner": "sungshon",
+                "repo": "PimpMyStremio",
+                "stars": 500
+              }
+            }
+          ],
           "repo_info": {
             "archived": false,
+            "id": 180601731,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T14:23:57Z",
-            "owner": "TheBeastLT",
-            "repo": "torrentio-scraper",
-            "stars": 1280
+            "last_commit": "2023-10-25T21:48:40Z",
+            "owner": "sungshon",
+            "repo": "PimpMyStremio",
+            "stars": 500
           }
         },
         {
           "node_type": "item",
-          "title": "Orion",
-          "description": "Torrent and Debrid addon with Orion as source and support for multiple debrid services (via Orion: RealDebrid, Premiumize, Offcloud)",
+          "title": "Stremio Downloader",
+          "description": "Allows you to download streams from Stremio",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211639627,
             "language": "JavaScript",
-            "last_commit": "2023-07-04T20:22:17Z",
-            "owner": "gorlev",
-            "repo": "orion-stremio-addon",
-            "stars": 93
+            "last_commit": "2023-09-04T23:19:56Z",
+            "owner": "BurningSands70",
+            "repo": "stremio-downloader",
+            "stars": 420
           }
-        }
-      ],
-      "title": "Movies & TV shows"
-    },
-    {
-      "description": "",
-      "items": [
+        },
         {
           "node_type": "item",
-          "title": "podcasts",
-          "description": null,
+          "title": "Stremio-RaspberryPi",
+          "description": "Helps you to run Stremio on a Raspberry Pi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251577357,
+            "language": "Shell",
+            "last_commit": "2026-02-25T15:37:09Z",
+            "owner": "shivasiddharth",
+            "repo": "Stremio-RaspberryPi",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stremio Install Scripts",
+          "description": "Scripts that are meant to install Stremio and its dependencies on systems that do not provide an official installation for Stremio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183009880,
+            "language": "Shell",
+            "last_commit": "2022-01-31T14:52:13Z",
+            "owner": "alexandru-balan",
+            "repo": "Stremio-Install-Scripts",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flatpak package",
+          "description": "Stremio installer for systems with Flatpak",
           "children": [],
           "repo_info": {
             "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-03-19T15:16:46Z",
-            "owner": "sleeyax",
-            "repo": "stremio-addons",
-            "stars": 66
+            "id": 150884539,
+            "language": null,
+            "last_commit": "2023-07-06T13:56:27Z",
+            "owner": "bilelmoussaoui",
+            "repo": "stremio-flatpak",
+            "stars": 21
           }
         },
         {
           "node_type": "item",
-          "title": "podcasts-for-all",
-          "description": null,
-          "children": []
+          "title": "Flatpak package",
+          "description": "Same",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226683557,
+            "language": null,
+            "last_commit": "2020-01-23T15:36:50Z",
+            "owner": "p1u3o",
+            "repo": "com.stremio.Stremio",
+            "stars": 4
+          }
         }
       ],
-      "title": "Podcasts"
+      "title": "Tools"
     },
     {
-      "description": "",
+      "description": "This list here focuses on open source addons, linking the source code repositories. For a list of addons that aren't necessarily open source check https://github.com/danamag/stremio-addons-list, which is the successor of the addon list that was maintained on the r/StremioAddons subreddit in the past.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Kitsu animes",
-          "description": "Provides several Kitsu anime catalogs (All, Top Rated, Most Popular, Trending) and metadata for them",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-20T16:03:56Z",
-            "owner": "TheBeastLT",
-            "repo": "stremio-kitsu-anime",
-            "stars": 34
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Torrentio",
+              "description": "Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175501425,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T07:55:26Z",
+                "owner": "TheBeastLT",
+                "repo": "torrentio-scraper",
+                "stars": 1279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orion",
+              "description": "Torrent and Debrid addon with Orion as source and support for multiple debrid services (via Orion: RealDebrid, Premiumize, Offcloud)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 361551022,
+                "language": "JavaScript",
+                "last_commit": "2023-07-04T20:22:17Z",
+                "owner": "gorlev",
+                "repo": "orion-stremio-addon",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deflix",
+              "description": "Debrid addon with multiple sources (YTS, The Pirate Bay, RARBG, 1337x and ibit) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize), written in Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234941976,
+                "language": "Go",
+                "last_commit": "2023-11-19T14:40:03Z",
+                "owner": "doingodswork",
+                "repo": "deflix-stremio",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lobo Guara Series",
+              "description": "Addon for dubbed TV Shows in brazilian portuguese",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 332221512,
+                "language": "JavaScript",
+                "last_commit": "2021-09-27T18:43:31Z",
+                "owner": "mrcanelas",
+                "repo": "lobo-guara-addon",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1337x torrents",
+              "description": "Torrent addon for 1337x",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237817880,
+                "language": "TypeScript",
+                "last_commit": "2023-03-19T15:16:46Z",
+                "owner": "sleeyax",
+                "repo": "stremio-addons",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HorribleSubs",
+              "description": "Anime torrents",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237817880,
+                "language": "TypeScript",
+                "last_commit": "2023-03-19T15:16:46Z",
+                "owner": "sleeyax",
+                "repo": "stremio-addons",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RARBG torrents",
+              "description": "Torrent addon for RARBG",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237817880,
+                "language": "TypeScript",
+                "last_commit": "2023-03-19T15:16:46Z",
+                "owner": "sleeyax",
+                "repo": "stremio-addons",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stream Quality Filter (aka \"SQF\")",
+              "description": "Fetches streams from RARBG, 1337x, YTS and TPB+ addons, removes duplicates and sorts them by quality",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237817880,
+                "language": "TypeScript",
+                "last_commit": "2023-03-19T15:16:46Z",
+                "owner": "sleeyax",
+                "repo": "stremio-addons",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Juan Carlos 2",
+              "description": "Torrent addon for KAT.cr and torrentz.eu",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45674920,
+                "language": "JavaScript",
+                "last_commit": "2015-12-12T17:21:58Z",
+                "owner": "JCB9090",
+                "repo": "juan-carlos-torrents-2",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mico leão dublado",
+              "description": "Addon for dubbed movies in brazilian portuguese (PT-BR) with multiple sources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257120143,
+                "language": "HTML",
+                "last_commit": "2023-01-06T04:04:34Z",
+                "owner": "fadoaglauss",
+                "repo": "stremio-brazilian-addon",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Piratebay",
+              "description": "Torrent addon for The Pirate Bay",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108729893,
+                "language": "JavaScript",
+                "last_commit": "2021-02-11T15:06:08Z",
+                "owner": "ThanosDi",
+                "repo": "piratebay-stremio-addon",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ThePirateBay+",
+              "description": "Torrent addon for The Pirate Bay",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169399450,
+                "language": "JavaScript",
+                "last_commit": "2024-11-16T19:12:38Z",
+                "owner": "TheBeastLT",
+                "repo": "stremio-thepiratebay-plus",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pct",
+              "description": "Torrent addon for EZTV and YTS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47821282,
+                "language": "JavaScript",
+                "last_commit": "2016-02-12T20:21:05Z",
+                "owner": "JCB9090",
+                "repo": "pct-addon",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rarbg",
+              "description": "Torrent addon for RARBG",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83548008,
+                "language": "JavaScript",
+                "last_commit": "2017-03-12T15:09:44Z",
+                "owner": "sebastiencs",
+                "repo": "rarbg-addon",
+                "stars": 20
+              }
+            }
+          ],
+          "description": "Torrent and HTTP streams:\nHTTP streams only (no P2P uploading):\nTorrent streams:",
+          "node_type": "group",
+          "title": "Movies & TV shows"
         },
         {
-          "node_type": "item",
-          "title": "Top movies",
-          "description": "Contains multiple catalogs of top movies: IMDb Top 250, IMDb Most Popular, Top Box Office, Rotten Tomatoes Certified Fresh Movies, Academy Award for Best Picture, Cannes Film Festival Palme, Venice Film Festival Golden Lion, Berlin International Film Festival Golden Bear",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-09-04T20:19:23Z",
-            "owner": "Deflix-tv",
-            "repo": "stremio-top-movies",
-            "stars": 29
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "podcasts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237817880,
+                "language": "TypeScript",
+                "last_commit": "2023-03-19T15:16:46Z",
+                "owner": "sleeyax",
+                "repo": "stremio-addons",
+                "stars": 66
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Podcasts"
         },
         {
-          "node_type": "item",
-          "title": "IMDb list",
-          "description": "Allows you to use any IMDb list as catalog",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-12-22T20:40:07Z",
-            "owner": "jaruba",
-            "repo": "stremio-imdb-list",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IMDb tag",
-          "description": "Allows you to dynamically create a catalog from an IMDb tag",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-04-21T18:59:13Z",
-            "owner": "jaruba",
-            "repo": "stremio-imdb-tag",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kitsu animes",
+              "description": "Provides several Kitsu anime catalogs (All, Top Rated, Most Popular, Trending) and metadata for them",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177598596,
+                "language": "JavaScript",
+                "last_commit": "2026-02-20T16:03:56Z",
+                "owner": "TheBeastLT",
+                "repo": "stremio-kitsu-anime",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Top movies",
+              "description": "Contains multiple catalogs of top movies: IMDb Top 250, IMDb Most Popular, Top Box Office, Rotten Tomatoes Certified Fresh Movies, Academy Award for Best Picture, Cannes Film Festival Palme, Venice Film Festival Golden Lion, Berlin International Film Festival Golden Bear",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247274040,
+                "language": "Go",
+                "last_commit": "2021-09-04T20:19:23Z",
+                "owner": "Deflix-tv",
+                "repo": "stremio-top-movies",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IMDb list",
+              "description": "Allows you to use any IMDb list as catalog",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171869898,
+                "language": "JavaScript",
+                "last_commit": "2023-12-22T20:40:07Z",
+                "owner": "jaruba",
+                "repo": "stremio-imdb-list",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IMDb tag",
+              "description": "Allows you to dynamically create a catalog from an IMDb tag",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171916341,
+                "language": "JavaScript",
+                "last_commit": "2020-04-21T18:59:13Z",
+                "owner": "jaruba",
+                "repo": "stremio-imdb-tag",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Catalogs"
         }
       ],
-      "title": "Catalogs"
+      "title": "Addons"
     },
     {
-      "description": "SDKs:",
+      "description": "SDKs:\nExamples using those SDKs:\nExamples not using any SDK:\nGuides:\nVideo tutorials:",
       "items": [
         {
           "node_type": "item",
@@ -171,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127441354,
             "language": "JavaScript",
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
@@ -185,6 +545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264461639,
             "language": "Go",
             "last_commit": "2023-09-12T21:54:24Z",
             "owner": "Deflix-tv",
@@ -199,30 +560,253 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 836296107,
             "language": "JavaScript",
             "last_commit": "2026-03-10T01:15:51Z",
             "owner": "sleeyax",
             "repo": "stremio-addon-sdk",
             "stars": 4
           }
+        },
+        {
+          "node_type": "group",
+          "title": "Node.js",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hello World Addon",
+              "description": "also includes a step by step tutorial",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48555053,
+                "language": "JavaScript",
+                "last_commit": "2025-11-27T22:36:32Z",
+                "owner": "Stremio",
+                "repo": "addon-helloworld",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IGDB Addon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149757056,
+                "language": "JavaScript",
+                "last_commit": "2019-03-07T14:28:09Z",
+                "owner": "Stremio",
+                "repo": "stremio-igdb-addon",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Rust",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Example Addon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 836296107,
+                "language": "JavaScript",
+                "last_commit": "2026-03-10T01:15:51Z",
+                "owner": "sleeyax",
+                "repo": "stremio-addon-sdk",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Examples for a catalog addon and a stream addon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264461639,
+                "language": "Go",
+                "last_commit": "2023-09-12T21:54:24Z",
+                "owner": "Deflix-tv",
+                "repo": "go-stremio",
+                "stars": 38
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js Express Addon Example Using User Data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127441354,
+            "language": "JavaScript",
+            "last_commit": "2026-04-08T05:03:19Z",
+            "owner": "Stremio",
+            "repo": "stremio-addon-sdk",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jackett Addon - Node.js Express Addon Using User Data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149765681,
+            "language": "JavaScript",
+            "last_commit": "2019-05-24T13:44:37Z",
+            "owner": "BoredLama",
+            "repo": "stremio-jackett-addon",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Addon Example & Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171247605,
+            "language": "Python",
+            "last_commit": "2019-02-22T15:09:48Z",
+            "owner": "Stremio",
+            "repo": "addon-helloworld-python",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IMDB Watchlist - Node.js Express Addon Using User Data and Proxying Another Stremio Addon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171892667,
+            "language": "JavaScript",
+            "last_commit": "2020-04-21T19:01:22Z",
+            "owner": "jaruba",
+            "repo": "stremio-imdb-watchlist",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IMDB Lists - Node.js Express Addon Using User Data and Ajax Calls",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171869898,
+            "language": "JavaScript",
+            "last_commit": "2023-12-22T20:40:07Z",
+            "owner": "jaruba",
+            "repo": "stremio-imdb-list",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Addon Example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172083568,
+            "language": "Go",
+            "last_commit": "2022-11-10T16:09:18Z",
+            "owner": "Stremio",
+            "repo": "addon-helloworld-go",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP Addon Example & Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149131697,
+            "language": "PHP",
+            "last_commit": "2019-02-18T19:00:49Z",
+            "owner": "Stremio",
+            "repo": "stremio-php-addon-example",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C# Addon Example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170192159,
+            "language": "C#",
+            "last_commit": "2019-02-14T09:17:32Z",
+            "owner": "Stremio",
+            "repo": "addon-helloworld-csharp",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby Addon Example & Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170493092,
+            "language": "Ruby",
+            "last_commit": "2019-02-15T15:12:53Z",
+            "owner": "Stremio",
+            "repo": "addon-helloworld-ruby",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js Express Addon Example & Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149299937,
+            "language": "JavaScript",
+            "last_commit": "2019-02-19T13:00:55Z",
+            "owner": "Stremio",
+            "repo": "addon-helloworld-express",
+            "stars": 5
+          }
         }
       ],
       "title": "Addon Developer Resources"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, doingodswork has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:20:29.062Z",
+    "last_updated": "2026-08-19T12:51:36.942Z",
     "original_repository": "doingodswork/awesome-stremio",
+    "original_repository_id": 256639640,
     "original_repository_sha": "4f6b4f9f4da5722e8babfd9a95f587f177883294",
     "enhanced_repository": "enhansome/enhansome-stremio",
     "enhanced_repository_description": null,
