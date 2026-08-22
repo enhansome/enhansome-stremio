@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T14:46:05Z",
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 12669
+            "stars": 12671
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T16:30:44Z",
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2277
+            "stars": 2279
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2023-09-04T23:19:56Z",
             "owner": "BurningSands70",
             "repo": "stremio-downloader",
-            "stars": 421
+            "stars": 422
           }
         },
         {
@@ -222,7 +222,7 @@
                 "archived": false,
                 "id": 175501425,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T12:32:22Z",
+                "last_commit": "2026-08-22T17:07:10Z",
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
                 "stars": 1279
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:22:13.126Z",
+    "last_updated": "2026-08-22T22:19:03.133Z",
     "original_repository": "doingodswork/awesome-stremio",
     "original_repository_id": 256639640,
     "original_repository_sha": "4f6b4f9f4da5722e8babfd9a95f587f177883294",
