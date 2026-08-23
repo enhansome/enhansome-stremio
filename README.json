@@ -42,10 +42,10 @@
             "archived": false,
             "id": 136023747,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T14:46:05Z",
+            "last_commit": "2026-08-23T00:16:45Z",
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 12671
+            "stars": 12679
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T16:30:44Z",
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2279
+            "stars": 2283
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1318
+            "stars": 1322
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-27T08:48:42Z",
             "owner": "Stremio",
             "repo": "stremio-shell",
-            "stars": 913
+            "stars": 915
           }
         }
       ],
@@ -225,7 +225,7 @@
                 "last_commit": "2026-08-22T17:07:10Z",
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
-                "stars": 1279
+                "stars": 1281
               }
             },
             {
@@ -535,7 +535,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1318
+            "stars": 1322
           }
         },
         {
@@ -661,7 +661,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1318
+            "stars": 1322
           }
         },
         {
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:19:03.133Z",
+    "last_updated": "2026-08-23T22:19:25.280Z",
     "original_repository": "doingodswork/awesome-stremio",
     "original_repository_id": 256639640,
     "original_repository_sha": "4f6b4f9f4da5722e8babfd9a95f587f177883294",
