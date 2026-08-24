@@ -42,10 +42,10 @@
             "archived": false,
             "id": 136023747,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T00:16:45Z",
+            "last_commit": "2026-08-24T12:33:38Z",
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 12679
+            "stars": 12680
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T16:30:44Z",
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2283
+            "stars": 2285
           }
         },
         {
@@ -222,10 +222,10 @@
                 "archived": false,
                 "id": 175501425,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T17:07:10Z",
+                "last_commit": "2026-08-24T07:17:51Z",
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
-                "stars": 1281
+                "stars": 1279
               }
             },
             {
@@ -427,6 +427,28 @@
           "description": "Torrent and HTTP streams:\nHTTP streams only (no P2P uploading):\nTorrent streams:",
           "node_type": "group",
           "title": "Movies & TV shows"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dlive.tv",
+              "description": "Live streams from dlive.tv",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237817880,
+                "language": "TypeScript",
+                "last_commit": "2023-03-19T15:16:46Z",
+                "owner": "sleeyax",
+                "repo": "stremio-addons",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Live TV"
         },
         {
           "children": [
@@ -804,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:19:25.280Z",
+    "last_updated": "2026-08-24T14:19:38.534Z",
     "original_repository": "doingodswork/awesome-stremio",
     "original_repository_id": 256639640,
     "original_repository_sha": "4f6b4f9f4da5722e8babfd9a95f587f177883294",
