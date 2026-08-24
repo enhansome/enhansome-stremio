@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T12:33:38Z",
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 12680
+            "stars": 12682
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T16:30:44Z",
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2285
+            "stars": 2284
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1322
+            "stars": 1324
           }
         },
         {
@@ -225,7 +225,7 @@
                 "last_commit": "2026-08-24T07:17:51Z",
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
-                "stars": 1279
+                "stars": 1280
               }
             },
             {
@@ -557,7 +557,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1322
+            "stars": 1324
           }
         },
         {
@@ -683,7 +683,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1322
+            "stars": 1324
           }
         },
         {
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:38.534Z",
+    "last_updated": "2026-08-24T22:23:30.617Z",
     "original_repository": "doingodswork/awesome-stremio",
     "original_repository_id": 256639640,
     "original_repository_sha": "4f6b4f9f4da5722e8babfd9a95f587f177883294",
