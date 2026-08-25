@@ -22,8 +22,8 @@
 
 Links to official Stremio resources:
 
-* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 163 | 🐛 426 | 📅 2026-06-28
-* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 163 | 🐛 598 | 📅 2026-04-22
+* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 163 | 🐛 428 | 📅 2026-06-28
+* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 163 | 🐛 596 | 📅 2026-04-22
 * [Website](https://www.stremio.com/)
 * [Blog](https://blog.strem.io/)
 * [Support](https://stremio.zendesk.com/)
@@ -38,10 +38,10 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 12,681 | 🐛 77 | 🌐 JavaScript | 📅 2026-08-24
-* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,285 | 🐛 81 | 🌐 Rust | 📅 2026-08-24
-* [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,325 | 🐛 81 | 🌐 JavaScript | 📅 2026-04-08
-* [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 916 | 🐛 145 | 🌐 C++ | 📅 2026-03-27
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 12,681 | 🐛 70 | 🌐 JavaScript | 📅 2026-08-25
+* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,285 | 🐛 81 | 🌐 Rust | 📅 2026-08-25
+* [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,328 | 🐛 79 | 🌐 JavaScript | 📅 2026-04-08
+* [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 915 | 🐛 145 | 🌐 C++ | 📅 2026-03-27
 
 ## Unofficial communities
 
@@ -114,7 +114,7 @@ Torrent streams:
 
 ### Catalogs
 
-* [Kitsu animes](https://github.com/TheBeastLT/stremio-kitsu-anime) ⭐ 34 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-20: Provides several [Kitsu](https://kitsu.io) anime catalogs (All, Top Rated, Most Popular, Trending) and metadata for them
+* [Kitsu animes](https://github.com/TheBeastLT/stremio-kitsu-anime) ⭐ 34 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-25: Provides several [Kitsu](https://kitsu.io) anime catalogs (All, Top Rated, Most Popular, Trending) and metadata for them
 * [Top movies](https://github.com/doingodswork/stremio-top-movies) ⭐ 29 | 🐛 1 | 🌐 Go | 📅 2021-09-04: Contains multiple catalogs of top movies: IMDb Top 250, IMDb Most Popular, Top Box Office, Rotten Tomatoes Certified Fresh Movies, Academy Award for Best Picture, Cannes Film Festival Palme, Venice Film Festival Golden Lion, Berlin International Film Festival Golden Bear
 * [IMDb list](https://github.com/jaruba/stremio-imdb-list) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2023-12-22: Allows you to use any IMDb list as catalog
 * [IMDb tag](https://github.com/jaruba/stremio-imdb-tag) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-21: Allows you to dynamically create a catalog from an IMDb tag
@@ -127,7 +127,7 @@ Torrent streams:
 
 SDKs:
 
-* [Official addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,325 | 🐛 81 | 🌐 JavaScript | 📅 2026-04-08
+* [Official addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,328 | 🐛 79 | 🌐 JavaScript | 📅 2026-04-08
 * [Addon SDK for Go](https://github.com/Deflix-tv/go-stremio) ⭐ 38 | 🐛 4 | 🌐 Go | 📅 2023-09-12: Stremio addon SDK for Go
 * [Addon SDK for Rust](https://github.com/sleeyax/stremio-addon-sdk) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10: Rust version of the stremio-addon-sdk using stremio-core
 
@@ -143,7 +143,7 @@ Examples using those SDKs:
 
 Examples not using any SDK:
 
-* [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md) ⭐ 1,325 | 🐛 81 | 🌐 JavaScript | 📅 2026-04-08
+* [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md) ⭐ 1,328 | 🐛 79 | 🌐 JavaScript | 📅 2026-04-08
 * [Jackett Addon - Node.js Express Addon Using User Data](https://github.com/BoredLama/stremio-jackett-addon) ⭐ 50 | 🐛 2 | 🌐 JavaScript | 📅 2019-05-24
 * [Python Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-python) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2019-02-22
 * [IMDB Watchlist - Node.js Express Addon Using User Data and Proxying Another Stremio Addon](https://github.com/jaruba/stremio-imdb-watchlist) ⭐ 20 | 🐛 3 | 🌐 JavaScript | 📅 2020-04-21

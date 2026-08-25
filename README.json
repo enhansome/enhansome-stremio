@@ -42,7 +42,7 @@
             "archived": false,
             "id": 136023747,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T12:33:38Z",
+            "last_commit": "2026-08-25T16:35:01Z",
             "owner": "Stremio",
             "repo": "stremio-web",
             "stars": 12681
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 163698806,
             "language": "Rust",
-            "last_commit": "2026-08-24T23:23:16Z",
+            "last_commit": "2026-08-25T12:02:34Z",
             "owner": "Stremio",
             "repo": "stremio-core",
             "stars": 2285
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1325
+            "stars": 1328
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-27T08:48:42Z",
             "owner": "Stremio",
             "repo": "stremio-shell",
-            "stars": 916
+            "stars": 915
           }
         }
       ],
@@ -483,7 +483,7 @@
                 "archived": false,
                 "id": 177598596,
                 "language": "JavaScript",
-                "last_commit": "2026-02-20T16:03:56Z",
+                "last_commit": "2026-08-25T16:44:34Z",
                 "owner": "TheBeastLT",
                 "repo": "stremio-kitsu-anime",
                 "stars": 34
@@ -557,7 +557,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1325
+            "stars": 1328
           }
         },
         {
@@ -683,7 +683,7 @@
             "last_commit": "2026-04-08T05:03:19Z",
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1325
+            "stars": 1328
           }
         },
         {
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:17.230Z",
+    "last_updated": "2026-08-25T22:24:17.457Z",
     "original_repository": "doingodswork/awesome-stremio",
     "original_repository_id": 256639640,
     "original_repository_sha": "4f6b4f9f4da5722e8babfd9a95f587f177883294",
