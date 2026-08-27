@@ -45,7 +45,7 @@
             "last_commit": "2026-08-26T19:39:18Z",
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 12693
+            "stars": 12697
           }
         },
         {
@@ -826,9 +826,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:54:14.178Z",
-    "original_repository": "doingodswork/awesome-stremio",
-    "original_repository_id": 256639640,
+    "last_updated": "2026-08-27T12:05:39.922Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 256639640,
+      "language": null,
+      "last_commit": "2023-09-04T23:11:00Z",
+      "owner": "doingodswork",
+      "repo": "awesome-stremio",
+      "stars": 761
+    },
     "original_repository_sha": "4f6b4f9f4da5722e8babfd9a95f587f177883294",
     "enhanced_repository": "enhansome/enhansome-stremio",
     "enhanced_repository_description": null,
