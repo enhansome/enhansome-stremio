@@ -22,7 +22,7 @@
 
 Links to official Stremio resources:
 
-* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 163 | 🐛 428 | 📅 2026-06-28
+* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 163 | 🐛 429 | 📅 2026-06-28
 * [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 163 | 🐛 596 | 📅 2026-04-22
 * [Website](https://www.stremio.com/)
 * [Blog](https://blog.strem.io/)
@@ -38,8 +38,8 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 12,697 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-26
-* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,287 | 🐛 79 | 🌐 Rust | 📅 2026-08-26
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 12,709 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-27
+* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,288 | 🐛 79 | 🌐 Rust | 📅 2026-08-27
 * [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,330 | 🐛 80 | 🌐 JavaScript | 📅 2026-04-08
 * [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 915 | 🐛 145 | 🌐 C++ | 📅 2026-03-27
 
@@ -77,7 +77,7 @@ This list here focuses on open source addons, linking the source code repositori
 
 Torrent and HTTP streams:
 
-* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,280 | 🐛 76 | 🌐 JavaScript | 📅 2026-08-24: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
+* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,281 | 🐛 76 | 🌐 JavaScript | 📅 2026-08-24: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
 * [Orion](https://github.com/gorlev/orion-stremio-addon) ⭐ 94 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-04: Torrent and Debrid addon with Orion as source and support for multiple debrid services (via Orion: RealDebrid, Premiumize, Offcloud)
 
 HTTP streams only (no P2P uploading):
@@ -176,4 +176,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
