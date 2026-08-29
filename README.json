@@ -47,7 +47,7 @@
             "last_commit": "2026-08-27T14:23:47Z",
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 12709
+            "stars": 12880
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
         },
@@ -63,7 +63,7 @@
             "last_commit": "2026-08-27T14:04:02Z",
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2288
+            "stars": 2293
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
         },
@@ -150,7 +150,7 @@
             "last_commit": "2023-09-04T23:19:56Z",
             "owner": "BurningSands70",
             "repo": "stremio-downloader",
-            "stars": 422
+            "stars": 423
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
         },
@@ -238,7 +238,7 @@
                 "last_commit": "2026-08-24T07:17:51Z",
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
-                "stars": 1281
+                "stars": 1282
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
             },
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:57:09.192Z",
+    "last_updated": "2026-08-29T03:29:35.966Z",
     "original_repository_info": {
       "archived": false,
       "id": 256639640,
