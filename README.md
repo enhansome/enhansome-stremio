@@ -38,7 +38,7 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 12,880 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-27
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 12,883 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-27
 * [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,293 | 🐛 79 | 🌐 Rust | 📅 2026-08-27
 * [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,330 | 🐛 80 | 🌐 JavaScript | 📅 2026-04-08
 * [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 915 | 🐛 145 | 🌐 C++ | 📅 2026-03-27
