@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 435,
+            "open_issues": 427,
             "owner": "Stremio",
             "repo": "stremio-bugs",
             "stars": 163,
@@ -57,11 +57,11 @@
             "id": 136023747,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T15:44:37Z",
-            "open_issues": 73,
+            "last_commit": "2026-08-30T00:37:39Z",
+            "open_issues": 76,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 12911,
+            "stars": 12922,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -85,7 +85,7 @@
             "open_issues": 79,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2294,
+            "stars": 2298,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -106,7 +106,7 @@
             "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "media-center",
               "stremio",
@@ -346,7 +346,7 @@
                 "open_issues": 9,
                 "owner": "gorlev",
                 "repo": "orion-stremio-addon",
-                "stars": 94,
+                "stars": 95,
                 "topics": [
                   "stream",
                   "streaming",
@@ -817,7 +817,7 @@
             "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "media-center",
               "stremio",
@@ -1013,7 +1013,7 @@
             "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "media-center",
               "stremio",
@@ -1171,6 +1171,27 @@
         },
         {
           "node_type": "item",
+          "title": "Node.js Express Addon Example & Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hello World add-on for Stremio made with Express",
+            "homepage": null,
+            "id": 149299937,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2019-02-19T13:00:55Z",
+            "open_issues": 0,
+            "owner": "Stremio",
+            "repo": "addon-helloworld-express",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:57:09.192Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ruby Addon Example & Tutorial",
           "description": null,
           "children": [],
@@ -1189,34 +1210,13 @@
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Node.js Express Addon Example & Tutorial",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hello World add-on for Stremio made with Express",
-            "homepage": null,
-            "id": 149299937,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2019-02-19T13:00:55Z",
-            "open_issues": 0,
-            "owner": "Stremio",
-            "repo": "addon-helloworld-express",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:57:09.192Z"
         }
       ],
       "title": "Addon Developer Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:52:43.485Z",
+    "last_updated": "2026-08-31T00:11:53.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
@@ -1228,7 +1228,7 @@
       "open_issues": 6,
       "owner": "doingodswork",
       "repo": "awesome-stremio",
-      "stars": 761,
+      "stars": 763,
       "topics": [
         "awesome",
         "awesome-list",
