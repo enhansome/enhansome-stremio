@@ -5,6 +5,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Bugs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🐛 Post bug reports in Issues here",
+            "homepage": null,
+            "id": 45546890,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-06-28T14:17:05Z",
+            "open_issues": 443,
+            "owner": "Stremio",
+            "repo": "stremio-bugs",
+            "stars": 165,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:57:09.192Z"
+        },
+        {
+          "node_type": "item",
           "title": "Feature requests",
           "description": null,
           "children": [],
@@ -26,27 +47,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bugs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🐛 Post bug reports in Issues here",
-            "homepage": null,
-            "id": 45546890,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 443,
-            "owner": "Stremio",
-            "repo": "stremio-bugs",
-            "stars": 163,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:57:09.192Z"
-        },
-        {
-          "node_type": "item",
           "title": "Stremio Web",
           "description": null,
           "children": [],
@@ -57,11 +57,11 @@
             "id": 136023747,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-13T00:38:20Z",
+            "last_commit": "2026-09-14T21:45:48Z",
             "open_issues": 76,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 13887,
+            "stars": 13897,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -81,11 +81,11 @@
             "id": 163698806,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T14:38:53Z",
-            "open_issues": 83,
+            "last_commit": "2026-09-14T23:23:45Z",
+            "open_issues": 84,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2379,
+            "stars": 2400,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -103,10 +103,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-08T05:03:19Z",
-            "open_issues": 81,
+            "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1356,
+            "stars": 1358,
             "topics": [
               "media-center",
               "stremio",
@@ -131,7 +131,7 @@
             "open_issues": 145,
             "owner": "Stremio",
             "repo": "stremio-shell",
-            "stars": 917,
+            "stars": 918,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -163,7 +163,7 @@
                 "open_issues": 37,
                 "owner": "sungshon",
                 "repo": "PimpMyStremio",
-                "stars": 503,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
@@ -180,7 +180,7 @@
             "open_issues": 37,
             "owner": "sungshon",
             "repo": "PimpMyStremio",
-            "stars": 503,
+            "stars": 502,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -814,10 +814,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-08T05:03:19Z",
-            "open_issues": 81,
+            "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1356,
+            "stars": 1358,
             "topics": [
               "media-center",
               "stremio",
@@ -1010,10 +1010,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-08T05:03:19Z",
-            "open_issues": 81,
+            "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1356,
+            "stars": 1358,
             "topics": [
               "media-center",
               "stremio",
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:52:45.556Z",
+    "last_updated": "2026-09-15T00:16:40.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
@@ -1228,7 +1228,7 @@
       "open_issues": 6,
       "owner": "doingodswork",
       "repo": "awesome-stremio",
-      "stars": 779,
+      "stars": 781,
       "topics": [
         "awesome",
         "awesome-list",
