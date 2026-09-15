@@ -22,8 +22,8 @@
 
 Links to official Stremio resources:
 
-* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 165 | 🐛 443 | 📅 2026-06-28
-* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 164 | 🐛 600 | 📅 2026-04-22
+* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 164 | 🐛 442 | 📅 2026-06-28
+* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 164 | 🐛 594 | 📅 2026-04-22
 * [Website](https://www.stremio.com/)
 * [Blog](https://blog.strem.io/)
 * [Support](https://stremio.zendesk.com/)
@@ -38,8 +38,8 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 13,897 | 🐛 76 | 🌐 JavaScript | 📅 2026-09-14
-* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,400 | 🐛 84 | 🌐 Rust | 📅 2026-09-14
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 13,904 | 🐛 74 | 🌐 JavaScript | 📅 2026-09-15
+* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,406 | 🐛 83 | 🌐 Rust | 📅 2026-09-15
 * [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,358 | 🐛 80 | 🌐 JavaScript | 📅 2026-04-08
 * [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 918 | 🐛 145 | 🌐 C++ | 📅 2026-03-27
 
@@ -77,7 +77,7 @@ This list here focuses on open source addons, linking the source code repositori
 
 Torrent and HTTP streams:
 
-* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,319 | 🐛 79 | 🌐 JavaScript | 📅 2026-09-10: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
+* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,318 | 🐛 77 | 🌐 JavaScript | 📅 2026-09-15: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
 * [Orion](https://github.com/gorlev/orion-stremio-addon) ⭐ 96 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-04: Torrent and Debrid addon with Orion as source and support for multiple debrid services (via Orion: RealDebrid, Premiumize, Offcloud)
 
 HTTP streams only (no P2P uploading):
