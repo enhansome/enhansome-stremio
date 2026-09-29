@@ -37,7 +37,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 428,
+            "open_issues": 429,
             "owner": "Stremio",
             "repo": "stremio-bugs",
             "stars": 164,
@@ -57,11 +57,11 @@
             "id": 136023747,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-27T10:53:58Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-28T20:09:31Z",
+            "open_issues": 69,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 13970,
+            "stars": 13975,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -81,11 +81,11 @@
             "id": 163698806,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-24T09:29:34Z",
-            "open_issues": 81,
+            "last_commit": "2026-09-28T23:23:12Z",
+            "open_issues": 82,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2430,
+            "stars": 2433,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -106,7 +106,7 @@
             "open_issues": 78,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1380,
+            "stars": 1383,
             "topics": [
               "media-center",
               "stremio",
@@ -131,7 +131,7 @@
             "open_issues": 142,
             "owner": "Stremio",
             "repo": "stremio-shell",
-            "stars": 920,
+            "stars": 922,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -243,7 +243,7 @@
             "open_issues": 11,
             "owner": "alexandru-balan",
             "repo": "Stremio-Install-Scripts",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "arch-linux",
               "clearlinux",
@@ -531,7 +531,7 @@
                 "open_issues": 16,
                 "owner": "fadoaglauss",
                 "repo": "stremio-brazilian-addon",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
@@ -817,7 +817,7 @@
             "open_issues": 78,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1380,
+            "stars": 1383,
             "topics": [
               "media-center",
               "stremio",
@@ -1013,7 +1013,7 @@
             "open_issues": 78,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1380,
+            "stars": 1383,
             "topics": [
               "media-center",
               "stremio",
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T00:17:27.305Z",
+    "last_updated": "2026-09-29T01:28:14.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
