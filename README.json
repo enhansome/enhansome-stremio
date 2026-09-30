@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-22T14:28:59Z",
-            "open_issues": 609,
+            "open_issues": 610,
             "owner": "Stremio",
             "repo": "stremio-features",
             "stars": 165,
@@ -37,7 +37,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 429,
+            "open_issues": 427,
             "owner": "Stremio",
             "repo": "stremio-bugs",
             "stars": 164,
@@ -57,11 +57,11 @@
             "id": 136023747,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-28T20:09:31Z",
-            "open_issues": 69,
+            "last_commit": "2026-09-29T12:43:45Z",
+            "open_issues": 75,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 13975,
+            "stars": 13976,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -81,11 +81,11 @@
             "id": 163698806,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-28T23:23:12Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-29T11:33:38Z",
+            "open_issues": 83,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2433,
+            "stars": 2436,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -102,11 +102,11 @@
             "id": 127441354,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T11:29:06Z",
+            "last_commit": "2026-09-29T11:26:16Z",
             "open_issues": 78,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "media-center",
               "stremio",
@@ -201,7 +201,7 @@
             "open_issues": 17,
             "owner": "BurningSands70",
             "repo": "stremio-downloader",
-            "stars": 426,
+            "stars": 427,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -325,7 +325,7 @@
                 "open_issues": 79,
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
-                "stars": 1324,
+                "stars": 1325,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
@@ -813,11 +813,11 @@
             "id": 127441354,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T11:29:06Z",
+            "last_commit": "2026-09-29T11:26:16Z",
             "open_issues": 78,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "media-center",
               "stremio",
@@ -1009,11 +1009,11 @@
             "id": 127441354,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T11:29:06Z",
+            "last_commit": "2026-09-29T11:26:16Z",
             "open_issues": 78,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "media-center",
               "stremio",
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:28:14.016Z",
+    "last_updated": "2026-09-30T01:03:42.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
@@ -1228,7 +1228,7 @@
       "open_issues": 7,
       "owner": "doingodswork",
       "repo": "awesome-stremio",
-      "stars": 787,
+      "stars": 788,
       "topics": [
         "awesome",
         "awesome-list",
