@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Bugs",
-          "description": null,
+          "description": "Stremio/stremio-bugs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Feature requests",
-          "description": null,
+          "description": "Stremio/stremio-features",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Stremio Web",
-          "description": null,
+          "description": "Stremio/stremio-web",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -72,7 +72,7 @@
         {
           "node_type": "item",
           "title": "Stremio Core",
-          "description": null,
+          "description": "Stremio/stremio-core",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -85,7 +85,7 @@
             "open_issues": 78,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2443,
+            "stars": 2442,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -93,7 +93,7 @@
         {
           "node_type": "item",
           "title": "Addon SDK",
-          "description": null,
+          "description": "Stremio/stremio-addon-sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -106,7 +106,7 @@
             "open_issues": 84,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1388,
+            "stars": 1387,
             "topics": [
               "media-center",
               "stremio",
@@ -118,7 +118,7 @@
         {
           "node_type": "item",
           "title": "Stremio Desktop",
-          "description": null,
+          "description": "Stremio/stremio-shell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,7 +131,7 @@
             "open_issues": 143,
             "owner": "Stremio",
             "repo": "stremio-shell",
-            "stars": 927,
+            "stars": 926,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -150,7 +150,7 @@
             {
               "node_type": "item",
               "title": "Addon list including links to their GitHub repository",
-              "description": null,
+              "description": "sungshon/PimpMyStremio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,7 +668,7 @@
             {
               "node_type": "item",
               "title": "podcasts",
-              "description": null,
+              "description": "sleeyax/stremio-addons",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -804,7 +804,7 @@
         {
           "node_type": "item",
           "title": "Official addon SDK",
-          "description": null,
+          "description": "Stremio/stremio-addon-sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -817,7 +817,7 @@
             "open_issues": 84,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1388,
+            "stars": 1387,
             "topics": [
               "media-center",
               "stremio",
@@ -909,7 +909,7 @@
             {
               "node_type": "item",
               "title": "IGDB Addon",
-              "description": null,
+              "description": "Stremio/stremio-igdb-addon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -937,7 +937,7 @@
             {
               "node_type": "item",
               "title": "Example Addon",
-              "description": null,
+              "description": "sleeyax/stremio-addon-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -965,7 +965,7 @@
             {
               "node_type": "item",
               "title": "Examples for a catalog addon and a stream addon",
-              "description": null,
+              "description": "Deflix-tv/go-stremio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1000,7 +1000,7 @@
         {
           "node_type": "item",
           "title": "Node.js Express Addon Example Using User Data",
-          "description": null,
+          "description": "Stremio/stremio-addon-sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1013,7 +1013,7 @@
             "open_issues": 84,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1388,
+            "stars": 1387,
             "topics": [
               "media-center",
               "stremio",
@@ -1025,7 +1025,7 @@
         {
           "node_type": "item",
           "title": "Jackett Addon - Node.js Express Addon Using User Data",
-          "description": null,
+          "description": "BoredLama/stremio-jackett-addon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1046,7 +1046,7 @@
         {
           "node_type": "item",
           "title": "Python Addon Example & Tutorial",
-          "description": null,
+          "description": "Stremio/addon-helloworld-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1067,7 +1067,7 @@
         {
           "node_type": "item",
           "title": "IMDB Watchlist - Node.js Express Addon Using User Data and Proxying Another Stremio Addon",
-          "description": null,
+          "description": "jaruba/stremio-imdb-watchlist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1088,7 +1088,7 @@
         {
           "node_type": "item",
           "title": "IMDB Lists - Node.js Express Addon Using User Data and Ajax Calls",
-          "description": null,
+          "description": "jaruba/stremio-imdb-list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1109,7 +1109,7 @@
         {
           "node_type": "item",
           "title": "Go Addon Example",
-          "description": null,
+          "description": "Stremio/addon-helloworld-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,7 +1130,7 @@
         {
           "node_type": "item",
           "title": "PHP Addon Example & Tutorial",
-          "description": null,
+          "description": "Stremio/stremio-php-addon-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1151,7 +1151,7 @@
         {
           "node_type": "item",
           "title": "C# Addon Example",
-          "description": null,
+          "description": "Stremio/addon-helloworld-csharp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1172,7 +1172,7 @@
         {
           "node_type": "item",
           "title": "Node.js Express Addon Example & Tutorial",
-          "description": null,
+          "description": "Stremio/addon-helloworld-express",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1193,7 +1193,7 @@
         {
           "node_type": "item",
           "title": "Ruby Addon Example & Tutorial",
-          "description": null,
+          "description": "Stremio/addon-helloworld-ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:55:19.923Z",
+    "last_updated": "2026-10-03T05:07:49.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
