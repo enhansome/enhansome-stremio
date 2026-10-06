@@ -22,7 +22,7 @@
 
 Links to official Stremio resources:
 
-* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 166 | 🐛 436 | 📅 2026-06-28
+* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 166 | 🐛 433 | 📅 2026-06-28
 * [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 165 | 🐛 613 | 📅 2026-04-22
 * [Website](https://www.stremio.com/)
 * [Blog](https://blog.strem.io/)
@@ -38,7 +38,7 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 14,308 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-05
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 14,394 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-05
 * [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,451 | 🐛 80 | 🌐 Rust | 📅 2026-10-05
 * [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,395 | 🐛 88 | 🌐 JavaScript | 📅 2026-10-02
 * [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 928 | 🐛 144 | 🌐 C++ | 📅 2026-03-27

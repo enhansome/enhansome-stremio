@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 436,
+            "open_issues": 433,
             "owner": "Stremio",
             "repo": "stremio-bugs",
             "stars": 166,
@@ -61,7 +61,7 @@
             "open_issues": 69,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 14308,
+            "stars": 14394,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:03:34.183Z",
+    "last_updated": "2026-10-06T10:42:21.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
