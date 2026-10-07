@@ -22,7 +22,7 @@
 
 Links to official Stremio resources:
 
-* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 166 | 🐛 433 | 📅 2026-06-28
+* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 167 | 🐛 435 | 📅 2026-06-28
 * [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 165 | 🐛 613 | 📅 2026-04-22
 * [Website](https://www.stremio.com/)
 * [Blog](https://blog.strem.io/)
@@ -38,8 +38,8 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 14,394 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-05
-* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,451 | 🐛 80 | 🌐 Rust | 📅 2026-10-05
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 14,412 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-06
+* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,453 | 🐛 80 | 🌐 Rust | 📅 2026-10-05
 * [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,395 | 🐛 88 | 🌐 JavaScript | 📅 2026-10-02
 * [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 928 | 🐛 144 | 🌐 C++ | 📅 2026-03-27
 
@@ -63,7 +63,7 @@ Official:
   * [Addon list including links to their GitHub repository](https://github.com/sungshon/PimpMyStremio/blob/master/src/addonsList.json) ⭐ 503 | 🐛 37 | 🌐 JavaScript | 📅 2023-10-25
   * [Reddit post with further info](https://www.reddit.com/r/Stremio/comments/db9qmn/what_is_pimpmystremio_xpost_from_rstremioaddons/)
   * [Tutorial for running PMS on Android](https://gist.github.com/sleeyax/e9635eb352a4fcdf94194f763d743689)
-* [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) ⭐ 428 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-04: Allows you to download streams from Stremio
+* [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) ⭐ 429 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-04: Allows you to download streams from Stremio
 * [Stremio-RaspberryPi](https://github.com/shivasiddharth/Stremio-RaspberryPi) ⭐ 189 | 🐛 15 | 🌐 Shell | 📅 2026-02-25: Helps you to run Stremio on a Raspberry Pi
 * [Stremio Install Scripts](https://github.com/alexandru-balan/Stremio-Install-Scripts) ⭐ 93 | 🐛 11 | 🌐 Shell | 📅 2022-01-31: Scripts that are meant to install Stremio and its dependencies on systems that do not provide an official installation for Stremio
 * [Flatpak package](https://github.com/bilelmoussaoui/stremio-flatpak) ⚠️ Archived: Stremio installer for systems with [Flatpak](https://flatpak.org/)
@@ -77,7 +77,7 @@ This list here focuses on open source addons, linking the source code repositori
 
 Torrent and HTTP streams:
 
-* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,322 | 🐛 79 | 🌐 JavaScript | 📅 2026-10-04: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
+* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,323 | 🐛 79 | 🌐 JavaScript | 📅 2026-10-04: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
 * [Orion](https://github.com/gorlev/orion-stremio-addon) ⭐ 96 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-04: Torrent and Debrid addon with Orion as source and support for multiple debrid services (via Orion: RealDebrid, Premiumize, Offcloud)
 
 HTTP streams only (no P2P uploading):
@@ -176,4 +176,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
