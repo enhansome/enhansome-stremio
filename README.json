@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 435,
+            "open_issues": 429,
             "owner": "Stremio",
             "repo": "stremio-bugs",
-            "stars": 167,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -37,10 +37,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-22T14:28:59Z",
-            "open_issues": 613,
+            "open_issues": 614,
             "owner": "Stremio",
             "repo": "stremio-features",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -57,11 +57,11 @@
             "id": 136023747,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-07T18:33:47Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-08T14:16:34Z",
+            "open_issues": 67,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 14430,
+            "stars": 14447,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -81,11 +81,11 @@
             "id": 163698806,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-05T10:06:36Z",
+            "last_commit": "2026-10-08T14:16:49Z",
             "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2457,
+            "stars": 2460,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -131,7 +131,7 @@
             "open_issues": 144,
             "owner": "Stremio",
             "repo": "stremio-shell",
-            "stars": 928,
+            "stars": 926,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -322,10 +322,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T19:14:20Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
-                "stars": 1324,
+                "stars": 1326,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
@@ -552,7 +552,7 @@
                 "open_issues": 2,
                 "owner": "ThanosDi",
                 "repo": "piratebay-stremio-addon",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "fetch-streams",
                   "piratebay",
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:33:08.672Z",
+    "last_updated": "2026-10-09T01:44:26.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
