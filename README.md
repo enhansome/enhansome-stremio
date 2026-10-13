@@ -22,7 +22,7 @@
 
 Links to official Stremio resources:
 
-* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 167 | 🐛 433 | 📅 2026-06-28
+* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 167 | 🐛 432 | 📅 2026-06-28
 * [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 166 | 🐛 619 | 📅 2026-04-22
 * [Website](https://www.stremio.com/)
 * [Blog](https://blog.strem.io/)
@@ -38,8 +38,8 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 14,510 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-11
-* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,468 | 🐛 81 | 🌐 Rust | 📅 2026-10-08
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 14,543 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-12
+* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,472 | 🐛 81 | 🌐 Rust | 📅 2026-10-12
 * [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,395 | 🐛 77 | 🌐 JavaScript | 📅 2026-10-02
 * [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 927 | 🐛 144 | 🌐 C++ | 📅 2026-03-27
 
@@ -77,7 +77,7 @@ This list here focuses on open source addons, linking the source code repositori
 
 Torrent and HTTP streams:
 
-* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,327 | 🐛 81 | 🌐 JavaScript | 📅 2026-10-07: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
+* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,329 | 🐛 82 | 🌐 JavaScript | 📅 2026-10-07: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
 * [Orion](https://github.com/gorlev/orion-stremio-addon) ⭐ 97 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-04: Torrent and Debrid addon with Orion as source and support for multiple debrid services (via Orion: RealDebrid, Premiumize, Offcloud)
 
 HTTP streams only (no P2P uploading):
@@ -114,7 +114,7 @@ Torrent streams:
 
 ### Catalogs
 
-* [Kitsu animes](https://github.com/TheBeastLT/stremio-kitsu-anime) ⭐ 34 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-11: Provides several [Kitsu](https://kitsu.io) anime catalogs (All, Top Rated, Most Popular, Trending) and metadata for them
+* [Kitsu animes](https://github.com/TheBeastLT/stremio-kitsu-anime) ⭐ 34 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-12: Provides several [Kitsu](https://kitsu.io) anime catalogs (All, Top Rated, Most Popular, Trending) and metadata for them
 * [Top movies](https://github.com/doingodswork/stremio-top-movies) ⭐ 30 | 🐛 1 | 🌐 Go | 📅 2021-09-04: Contains multiple catalogs of top movies: IMDb Top 250, IMDb Most Popular, Top Box Office, Rotten Tomatoes Certified Fresh Movies, Academy Award for Best Picture, Cannes Film Festival Palme, Venice Film Festival Golden Lion, Berlin International Film Festival Golden Bear
 * [IMDb list](https://github.com/jaruba/stremio-imdb-list) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2023-12-22: Allows you to use any IMDb list as catalog
 * [IMDb tag](https://github.com/jaruba/stremio-imdb-tag) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-21: Allows you to dynamically create a catalog from an IMDb tag
@@ -176,4 +176,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
