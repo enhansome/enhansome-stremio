@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 439,
+            "open_issues": 437,
             "owner": "Stremio",
             "repo": "stremio-bugs",
             "stars": 168,
@@ -37,7 +37,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-22T14:28:59Z",
-            "open_issues": 623,
+            "open_issues": 626,
             "owner": "Stremio",
             "repo": "stremio-features",
             "stars": 166,
@@ -57,11 +57,11 @@
             "id": 136023747,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-20T13:27:39Z",
+            "last_commit": "2026-10-21T12:25:54Z",
             "open_issues": 69,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 14715,
+            "stars": 14727,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -85,7 +85,7 @@
             "open_issues": 81,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2493,
+            "stars": 2496,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -325,7 +325,7 @@
                 "open_issues": 74,
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
-                "stars": 1334,
+                "stars": 1336,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:22:46.896Z",
+    "last_updated": "2026-10-22T00:25:33.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
@@ -1228,7 +1228,7 @@
       "open_issues": 8,
       "owner": "doingodswork",
       "repo": "awesome-stremio",
-      "stars": 802,
+      "stars": 803,
       "topics": [
         "awesome",
         "awesome-list",
