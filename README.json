@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 417,
+            "open_issues": 420,
             "owner": "Stremio",
             "repo": "stremio-bugs",
             "stars": 168,
@@ -61,7 +61,7 @@
             "open_issues": 71,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 14764,
+            "stars": 14776,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -85,7 +85,7 @@
             "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2500,
+            "stars": 2504,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -106,7 +106,7 @@
             "open_issues": 77,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1405,
+            "stars": 1404,
             "topics": [
               "media-center",
               "stremio",
@@ -201,7 +201,7 @@
             "open_issues": 17,
             "owner": "BurningSands70",
             "repo": "stremio-downloader",
-            "stars": 430,
+            "stars": 431,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -321,11 +321,11 @@
                 "id": 175501425,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T17:15:42Z",
+                "last_commit": "2026-10-23T14:06:37Z",
                 "open_issues": 74,
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
-                "stars": 1336,
+                "stars": 1335,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
@@ -579,7 +579,7 @@
                 "open_issues": 7,
                 "owner": "TheBeastLT",
                 "repo": "stremio-thepiratebay-plus",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
@@ -705,7 +705,7 @@
                 "id": 177598596,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T13:02:30Z",
+                "last_commit": "2026-10-23T08:56:23Z",
                 "open_issues": 3,
                 "owner": "TheBeastLT",
                 "repo": "stremio-kitsu-anime",
@@ -817,7 +817,7 @@
             "open_issues": 77,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1405,
+            "stars": 1404,
             "topics": [
               "media-center",
               "stremio",
@@ -1013,7 +1013,7 @@
             "open_issues": 77,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1405,
+            "stars": 1404,
             "topics": [
               "media-center",
               "stremio",
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:23:40.236Z",
+    "last_updated": "2026-10-24T00:15:30.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
@@ -1228,7 +1228,7 @@
       "open_issues": 8,
       "owner": "doingodswork",
       "repo": "awesome-stremio",
-      "stars": 804,
+      "stars": 805,
       "topics": [
         "awesome",
         "awesome-list",
