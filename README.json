@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 422,
+            "open_issues": 427,
             "owner": "Stremio",
             "repo": "stremio-bugs",
             "stars": 169,
@@ -57,11 +57,11 @@
             "id": 136023747,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-02T12:14:30Z",
-            "open_issues": 70,
+            "last_commit": "2026-11-03T13:49:31Z",
+            "open_issues": 72,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 14956,
+            "stars": 14960,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -85,7 +85,7 @@
             "open_issues": 83,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2526,
+            "stars": 2529,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -106,7 +106,7 @@
             "open_issues": 77,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1429,
+            "stars": 1430,
             "topics": [
               "media-center",
               "stremio",
@@ -817,7 +817,7 @@
             "open_issues": 77,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1429,
+            "stars": 1430,
             "topics": [
               "media-center",
               "stremio",
@@ -1013,7 +1013,7 @@
             "open_issues": 77,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1429,
+            "stars": 1430,
             "topics": [
               "media-center",
               "stremio",
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:17:55.495Z",
+    "last_updated": "2026-11-04T01:53:00.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
@@ -1228,7 +1228,7 @@
       "open_issues": 8,
       "owner": "doingodswork",
       "repo": "awesome-stremio",
-      "stars": 807,
+      "stars": 808,
       "topics": [
         "awesome",
         "awesome-list",
