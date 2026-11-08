@@ -22,8 +22,8 @@
 
 Links to official Stremio resources:
 
-* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 169 | 🐛 430 | 📅 2026-06-28
-* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 168 | 🐛 637 | 📅 2026-04-22
+* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 171 | 🐛 431 | 📅 2026-06-28
+* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 167 | 🐛 639 | 📅 2026-04-22
 * [Website](https://www.stremio.com/)
 * [Blog](https://blog.strem.io/)
 * [Support](https://stremio.zendesk.com/)
@@ -38,9 +38,9 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 14,981 | 🐛 75 | 🌐 JavaScript | 📅 2026-11-06
-* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,529 | 🐛 87 | 🌐 Rust | 📅 2026-11-06
-* [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,432 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-01
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 15,009 | 🐛 76 | 🌐 JavaScript | 📅 2026-11-08
+* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,539 | 🐛 87 | 🌐 Rust | 📅 2026-11-07
+* [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,435 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-01
 * [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 935 | 🐛 143 | 🌐 C++ | 📅 2026-03-27
 
 ## Unofficial communities
@@ -65,7 +65,7 @@ Official:
   * [Tutorial for running PMS on Android](https://gist.github.com/sleeyax/e9635eb352a4fcdf94194f763d743689)
 * [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) ⭐ 433 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-04: Allows you to download streams from Stremio
 * [Stremio-RaspberryPi](https://github.com/shivasiddharth/Stremio-RaspberryPi) ⭐ 187 | 🐛 15 | 🌐 Shell | 📅 2026-02-25: Helps you to run Stremio on a Raspberry Pi
-* [Stremio Install Scripts](https://github.com/alexandru-balan/Stremio-Install-Scripts) ⭐ 94 | 🐛 11 | 🌐 Shell | 📅 2022-01-31: Scripts that are meant to install Stremio and its dependencies on systems that do not provide an official installation for Stremio
+* [Stremio Install Scripts](https://github.com/alexandru-balan/Stremio-Install-Scripts) ⭐ 95 | 🐛 11 | 🌐 Shell | 📅 2022-01-31: Scripts that are meant to install Stremio and its dependencies on systems that do not provide an official installation for Stremio
 * [Flatpak package](https://github.com/bilelmoussaoui/stremio-flatpak) ⚠️ Archived: Stremio installer for systems with [Flatpak](https://flatpak.org/)
 * [Flatpak package](https://github.com/p1u3o/com.stremio.Stremio) ⭐ 4 | 🐛 1 | 📅 2020-01-23: Same
 
@@ -77,7 +77,7 @@ This list here focuses on open source addons, linking the source code repositori
 
 Torrent and HTTP streams:
 
-* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,342 | 🐛 59 | 🌐 Rust | 📅 2026-10-27: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
+* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,341 | 🐛 59 | 🌐 Rust | 📅 2026-10-27: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
 * [Orion](https://github.com/gorlev/orion-stremio-addon) ⭐ 99 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-04: Torrent and Debrid addon with Orion as source and support for multiple debrid services (via Orion: RealDebrid, Premiumize, Offcloud)
 
 HTTP streams only (no P2P uploading):
@@ -127,7 +127,7 @@ Torrent streams:
 
 SDKs:
 
-* [Official addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,432 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-01
+* [Official addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,435 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-01
 * [Addon SDK for Go](https://github.com/Deflix-tv/go-stremio) ⭐ 42 | 🐛 4 | 🌐 Go | 📅 2023-09-12: Stremio addon SDK for Go
 * [Addon SDK for Rust](https://github.com/sleeyax/stremio-addon-sdk) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10: Rust version of the stremio-addon-sdk using stremio-core
 
@@ -143,7 +143,7 @@ Examples using those SDKs:
 
 Examples not using any SDK:
 
-* [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md) ⭐ 1,432 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-01
+* [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md) ⭐ 1,435 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-01
 * [Jackett Addon - Node.js Express Addon Using User Data](https://github.com/BoredLama/stremio-jackett-addon) ⭐ 49 | 🐛 2 | 🌐 JavaScript | 📅 2019-05-24
 * [Python Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-python) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2019-02-22
 * [IMDB Watchlist - Node.js Express Addon Using User Data and Proxying Another Stremio Addon](https://github.com/jaruba/stremio-imdb-watchlist) ⭐ 20 | 🐛 3 | 🌐 JavaScript | 📅 2020-04-21
@@ -176,4 +176,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
