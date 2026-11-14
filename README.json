@@ -37,7 +37,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-22T14:28:59Z",
-            "open_issues": 639,
+            "open_issues": 640,
             "owner": "Stremio",
             "repo": "stremio-features",
             "stars": 167,
@@ -61,7 +61,7 @@
             "open_issues": 70,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 15063,
+            "stars": 15073,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -85,7 +85,7 @@
             "open_issues": 88,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2562,
+            "stars": 2563,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -201,7 +201,7 @@
             "open_issues": 17,
             "owner": "BurningSands70",
             "repo": "stremio-downloader",
-            "stars": 433,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:22:41.423Z",
+    "last_updated": "2026-11-14T01:58:00.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
