@@ -22,8 +22,8 @@
 
 Links to official Stremio resources:
 
-* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 170 | 🐛 427 | 📅 2026-06-28
-* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 167 | 🐛 641 | 📅 2026-04-22
+* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 170 | 🐛 431 | 📅 2026-06-28
+* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 167 | 🐛 642 | 📅 2026-04-22
 * [Website](https://www.stremio.com/)
 * [Blog](https://blog.strem.io/)
 * [Support](https://stremio.zendesk.com/)
@@ -38,9 +38,9 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 15,086 | 🐛 70 | 🌐 TypeScript | 📅 2026-11-15
-* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,563 | 🐛 88 | 🌐 Rust | 📅 2026-11-12
-* [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,446 | 🐛 79 | 🌐 JavaScript | 📅 2026-11-01
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 15,101 | 🐛 73 | 🌐 TypeScript | 📅 2026-11-15
+* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,564 | 🐛 88 | 🌐 Rust | 📅 2026-11-12
+* [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,446 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-01
 * [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 940 | 🐛 144 | 🌐 C++ | 📅 2026-03-27
 
 ## Unofficial communities
@@ -127,7 +127,7 @@ Torrent streams:
 
 SDKs:
 
-* [Official addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,446 | 🐛 79 | 🌐 JavaScript | 📅 2026-11-01
+* [Official addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,446 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-01
 * [Addon SDK for Go](https://github.com/Deflix-tv/go-stremio) ⭐ 42 | 🐛 4 | 🌐 Go | 📅 2023-09-12: Stremio addon SDK for Go
 * [Addon SDK for Rust](https://github.com/sleeyax/stremio-addon-sdk) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10: Rust version of the stremio-addon-sdk using stremio-core
 
@@ -143,7 +143,7 @@ Examples using those SDKs:
 
 Examples not using any SDK:
 
-* [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md) ⭐ 1,446 | 🐛 79 | 🌐 JavaScript | 📅 2026-11-01
+* [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md) ⭐ 1,446 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-01
 * [Jackett Addon - Node.js Express Addon Using User Data](https://github.com/BoredLama/stremio-jackett-addon) ⭐ 49 | 🐛 2 | 🌐 JavaScript | 📅 2019-05-24
 * [Python Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-python) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2019-02-22
 * [IMDB Watchlist - Node.js Express Addon Using User Data and Proxying Another Stremio Addon](https://github.com/jaruba/stremio-imdb-watchlist) ⭐ 20 | 🐛 3 | 🌐 JavaScript | 📅 2020-04-21
@@ -176,4 +176,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
