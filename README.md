@@ -22,8 +22,8 @@
 
 Links to official Stremio resources:
 
-* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 171 | 🐛 424 | 📅 2026-06-28
-* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 169 | 🐛 648 | 📅 2026-04-22
+* [Bugs](https://github.com/Stremio/stremio-bugs) ⭐ 171 | 🐛 420 | 📅 2026-06-28
+* [Feature requests](https://github.com/Stremio/stremio-features) ⭐ 169 | 🐛 651 | 📅 2026-04-22
 * [Website](https://www.stremio.com/)
 * [Blog](https://blog.strem.io/)
 * [Support](https://stremio.zendesk.com/)
@@ -38,10 +38,10 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 15,185 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-18
-* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,568 | 🐛 102 | 🌐 Rust | 📅 2026-11-12
-* [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,449 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-01
-* [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 941 | 🐛 145 | 🌐 C++ | 📅 2026-03-27
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 15,191 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-19
+* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,570 | 🐛 131 | 🌐 Rust | 📅 2026-11-19
+* [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,448 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-01
+* [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 940 | 🐛 145 | 🌐 C++ | 📅 2026-03-27
 
 ## Unofficial communities
 
@@ -77,7 +77,7 @@ This list here focuses on open source addons, linking the source code repositori
 
 Torrent and HTTP streams:
 
-* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,343 | 🐛 60 | 🌐 Rust | 📅 2026-11-12: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
+* [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ⭐ 1,343 | 🐛 61 | 🌐 Rust | 📅 2026-11-12: Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
 * [Orion](https://github.com/gorlev/orion-stremio-addon) ⭐ 99 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-04: Torrent and Debrid addon with Orion as source and support for multiple debrid services (via Orion: RealDebrid, Premiumize, Offcloud)
 
 HTTP streams only (no P2P uploading):
@@ -94,7 +94,7 @@ Torrent streams:
 * [Stream Quality Filter (aka "SQF")](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/stream-quality-filter) ⚠️ Archived: Fetches streams from RARBG, 1337x, YTS and TPB+ addons, removes duplicates and sorts them by quality
 * [Juan Carlos 2](https://github.com/JCB9090/juan-carlos-torrents-2) ⭐ 55 | 🐛 11 | 🌐 JavaScript | 📅 2015-12-12: Torrent addon for KAT.cr and torrentz.eu
 * [Mico leão dublado](https://github.com/fadoaglauss/stremio-brazilian-addon) ⭐ 52 | 🐛 16 | 🌐 HTML | 📅 2023-01-06: Addon for dubbed movies in brazilian portuguese (PT-BR) with multiple sources
-* [Piratebay](https://github.com/ThanosDi/piratebay-stremio-addon) ⭐ 45 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-11: Torrent addon for The Pirate Bay
+* [Piratebay](https://github.com/ThanosDi/piratebay-stremio-addon) ⭐ 46 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-11: Torrent addon for The Pirate Bay
 * [ThePirateBay+](https://github.com/TheBeastLT/stremio-thepiratebay-plus) ⭐ 44 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-07: Torrent addon for The Pirate Bay
 * [pct](https://github.com/JCB9090/pct-addon) ⭐ 37 | 🐛 5 | 🌐 JavaScript | 📅 2016-02-12: Torrent addon for EZTV and YTS
 * [rarbg](https://github.com/sebastiencs/rarbg-addon) ⭐ 20 | 🐛 4 | 🌐 JavaScript | 📅 2017-03-12: Torrent addon for RARBG
@@ -127,7 +127,7 @@ Torrent streams:
 
 SDKs:
 
-* [Official addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,449 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-01
+* [Official addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,448 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-01
 * [Addon SDK for Go](https://github.com/Deflix-tv/go-stremio) ⭐ 42 | 🐛 4 | 🌐 Go | 📅 2023-09-12: Stremio addon SDK for Go
 * [Addon SDK for Rust](https://github.com/sleeyax/stremio-addon-sdk) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10: Rust version of the stremio-addon-sdk using stremio-core
 
@@ -143,7 +143,7 @@ Examples using those SDKs:
 
 Examples not using any SDK:
 
-* [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md) ⭐ 1,449 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-01
+* [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md) ⭐ 1,448 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-01
 * [Jackett Addon - Node.js Express Addon Using User Data](https://github.com/BoredLama/stremio-jackett-addon) ⭐ 49 | 🐛 2 | 🌐 JavaScript | 📅 2019-05-24
 * [Python Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-python) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2019-02-22
 * [IMDB Watchlist - Node.js Express Addon Using User Data and Proxying Another Stremio Addon](https://github.com/jaruba/stremio-imdb-watchlist) ⭐ 20 | 🐛 3 | 🌐 JavaScript | 📅 2020-04-21
@@ -176,4 +176,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
