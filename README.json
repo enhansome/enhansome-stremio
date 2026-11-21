@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-28T14:17:05Z",
-            "open_issues": 420,
+            "open_issues": 422,
             "owner": "Stremio",
             "repo": "stremio-bugs",
             "stars": 171,
@@ -37,7 +37,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-22T14:28:59Z",
-            "open_issues": 651,
+            "open_issues": 652,
             "owner": "Stremio",
             "repo": "stremio-features",
             "stars": 169,
@@ -57,11 +57,11 @@
             "id": 136023747,
             "language": "TypeScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-19T16:12:39Z",
-            "open_issues": 76,
+            "last_commit": "2026-11-20T13:51:24Z",
+            "open_issues": 77,
             "owner": "Stremio",
             "repo": "stremio-web",
-            "stars": 15191,
+            "stars": 15206,
             "topics": [
               "hacktoberfest",
               "stremio"
@@ -82,10 +82,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-19T15:20:50Z",
-            "open_issues": 131,
+            "open_issues": 134,
             "owner": "Stremio",
             "repo": "stremio-core",
-            "stars": 2570,
+            "stars": 2576,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -106,7 +106,7 @@
             "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "media-center",
               "stremio",
@@ -128,7 +128,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-03-27T08:48:42Z",
-            "open_issues": 145,
+            "open_issues": 146,
             "owner": "Stremio",
             "repo": "stremio-shell",
             "stars": 940,
@@ -163,7 +163,7 @@
                 "open_issues": 37,
                 "owner": "sungshon",
                 "repo": "PimpMyStremio",
-                "stars": 508,
+                "stars": 509,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
@@ -180,7 +180,7 @@
             "open_issues": 37,
             "owner": "sungshon",
             "repo": "PimpMyStremio",
-            "stars": 508,
+            "stars": 509,
             "topics": []
           },
           "first_seen": "2026-08-28T05:57:09.192Z"
@@ -322,10 +322,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-12T07:00:36Z",
-                "open_issues": 61,
+                "open_issues": 60,
                 "owner": "TheBeastLT",
                 "repo": "torrentio-scraper",
-                "stars": 1343,
+                "stars": 1344,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:57:09.192Z"
@@ -817,7 +817,7 @@
             "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "media-center",
               "stremio",
@@ -1013,7 +1013,7 @@
             "open_issues": 80,
             "owner": "Stremio",
             "repo": "stremio-addon-sdk",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "media-center",
               "stremio",
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:49:32.640Z",
+    "last_updated": "2026-11-21T02:58:15.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and addons for Stremio",
@@ -1225,10 +1225,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2023-09-04T23:11:00Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "doingodswork",
       "repo": "awesome-stremio",
-      "stars": 815,
+      "stars": 814,
       "topics": [
         "awesome",
         "awesome-list",
