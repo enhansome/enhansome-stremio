@@ -38,8 +38,8 @@ Community:
 
 Open source code:
 
-* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 15,644 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-26
-* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,591 | 🐛 127 | 🌐 Rust | 📅 2026-11-26
+* [Stremio Web](https://github.com/stremio/stremio-web) ⭐ 15,653 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-27
+* [Stremio Core](https://github.com/Stremio/stremio-core/tree/development) ⭐ 2,595 | 🐛 129 | 🌐 Rust | 📅 2026-11-26
 * [Addon SDK](https://github.com/Stremio/stremio-addon-sdk) ⭐ 1,463 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-01
 * [Stremio Desktop](https://github.com/stremio/stremio-shell) ⭐ 942 | 🐛 146 | 🌐 C++ | 📅 2026-03-27
 
@@ -63,7 +63,7 @@ Official:
   * [Addon list including links to their GitHub repository](https://github.com/sungshon/PimpMyStremio/blob/master/src/addonsList.json) ⭐ 508 | 🐛 37 | 🌐 JavaScript | 📅 2023-10-25
   * [Reddit post with further info](https://www.reddit.com/r/Stremio/comments/db9qmn/what_is_pimpmystremio_xpost_from_rstremioaddons/)
   * [Tutorial for running PMS on Android](https://gist.github.com/sleeyax/e9635eb352a4fcdf94194f763d743689)
-* [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) ⭐ 435 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-04: Allows you to download streams from Stremio
+* [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) ⭐ 434 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-04: Allows you to download streams from Stremio
 * [Stremio-RaspberryPi](https://github.com/shivasiddharth/Stremio-RaspberryPi) ⭐ 188 | 🐛 15 | 🌐 Shell | 📅 2026-02-25: Helps you to run Stremio on a Raspberry Pi
 * [Stremio Install Scripts](https://github.com/alexandru-balan/Stremio-Install-Scripts) ⭐ 95 | 🐛 11 | 🌐 Shell | 📅 2022-01-31: Scripts that are meant to install Stremio and its dependencies on systems that do not provide an official installation for Stremio
 * [Flatpak package](https://github.com/bilelmoussaoui/stremio-flatpak) ⚠️ Archived: Stremio installer for systems with [Flatpak](https://flatpak.org/)
@@ -176,4 +176,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
